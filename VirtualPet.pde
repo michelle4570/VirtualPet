@@ -10,6 +10,7 @@ void setup()
  void draw()
 {
   fill(0,0,0);
+  noStroke();
   ellipse(200,280,92,92);
   ellipse(220,173,24,67);
   ellipse(180,173,24,66);
